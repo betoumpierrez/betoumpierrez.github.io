@@ -43,13 +43,20 @@ __________________________________________________ */
 	display: block;
 	padding: 8px 15px;
 	text-decoration: none;
-	font-weight: bold;
 	color: #069;
 	border-right: 1px solid #ccc; }
 #nav li a:hover {
 	color: #c00;
 	background-color: #fff; }
 
+
+/* Header
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.header {
+  background: #ff00cc;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #333399, #ff00cc);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #333399, #ff00cc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
 
 
 /* Grid
