@@ -25,6 +25,10 @@
 - Media Queries
 */
 
+nav {
+  display: inline;
+  float:left;
+}
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
